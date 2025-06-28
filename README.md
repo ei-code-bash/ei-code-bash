@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning robot navigation.
 
 
-# ⚡ Beyond Code
 
 
 ei-code-bash/ei-code-bash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
