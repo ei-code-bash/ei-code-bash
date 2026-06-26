@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ei-code-bash</h1>
+<h1 align="center">Hi 👋, I'm ChangeNi</h1>
 
 <p align="center">
 🚀 Deep Learning | 🤖 SLAM | 🦀 Rust | 🐍 Python | ⚙️ C/C++
